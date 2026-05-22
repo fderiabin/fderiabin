@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @fderiabin
-- 👀 I’m interested in Data Science, Statistiscs and Machine Learning. I deeply enjoy mathematical riddles and finding creative solutions to quantitative problems.
-- 🌱 I’m currently learning Algorithms and Data Structures via an online course in JavaScript
-- 💞️ I’m looking to collaborate on modeling, data analysis.
-- 📫 How to reach me f.deriabin@gmail.com
+- Field Application Engineer with a background in physics (ETH Zurich) and international project experience in laboratory automation and clinical imaging. Currently building digital pathology AI pipelines.
+- 🔬 Featured projects:
+- **[slides_project](https://github.com/fderiabin/slides_project)** – Unsupervised anomaly detection on whole-slide images (CAMELYON16)
+- **[camelyon-supervised](https://github.com/fderiabin/camelyon-supervised)** – Supervised tumour classifier using Phikon foundation features
+📫 [f.deriabin@gmail.com](mailto:f.deriabin@gmail.com) · [LinkedIn](https://linkedin.com/in/filipp-deriabin)
 
 <!---
 fderiabin/fderiabin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
