@@ -3,7 +3,7 @@
 - 🔬 Featured projects:
 - **[slides_project](https://github.com/fderiabin/slides_project)** – Unsupervised anomaly detection on whole-slide images (CAMELYON16)
 - **[camelyon-supervised](https://github.com/fderiabin/camelyon-supervised)** – Supervised tumour classifier using Phikon foundation features
-📫 [f.deriabin@gmail.com](mailto:f.deriabin@gmail.com) · [LinkedIn](https://linkedin.com/in/filipp-deriabin)
+- 📫 [f.deriabin@gmail.com](mailto:f.deriabin@gmail.com) · [LinkedIn](https://linkedin.com/in/filipp-deriabin)
 
 <!---
 fderiabin/fderiabin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
