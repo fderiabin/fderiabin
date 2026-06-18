@@ -6,6 +6,8 @@
   **[slides_project](https://github.com/fderiabin/slides_project)** – Unsupervised anomaly detection on whole-slide images (CAMELYON16)
 
   **[camelyon-supervised](https://github.com/fderiabin/camelyon-supervised)** – Supervised tumour classifier using Phikon foundation features
+
+  **[hl7-mirth-fhir](https://github.com/fderiabin/hl7-mirth-fhir)** – Test integration of an HL7 v2 → Mirth Connect → FHIR application
 - 📫 [f.deriabin@gmail.com](mailto:f.deriabin@gmail.com) · [LinkedIn](https://linkedin.com/in/filipp-deriabin)
 
 <!---
