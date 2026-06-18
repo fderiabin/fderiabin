@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fderiabin
   
-  Field Application Engineer with a background in physics (ETH Zurich) and international project experience in laboratory automation and clinical imaging. Currently building digital pathology AI pipelines.
+  Field Application Engineer with a background in physics (ETH Zurich) and international project experience in laboratory automation and clinical imaging. Currently diving into Digital Pathology.
 - 🔬 Featured projects:
 
   **[slides_project](https://github.com/fderiabin/slides_project)** – Unsupervised anomaly detection on whole-slide images (CAMELYON16)
